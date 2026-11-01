@@ -6,7 +6,9 @@ A simple student-friendly Flask web project with:
 - EMI calculator
 - AI financial tips (optional Claude API)
 - Responsive dark glassmorphism interface
-- Ready for GitHub and Render
+- Ready for GitHub and Render 
+  
+Here is my Document Link:https://1drv.ms/w/c/A4AA4BCFAE29EAB4/IQA1vmKjNUG1S6pXHAQMtVWnATXNIgrA-sZ45WLcbNx7o70?e=cIGC58
 
 here is my drive link : https://drive.google.com/drive/folders/1ZwWTifW06w3L4FyXbY-6jd4u-OI47fcL
 
